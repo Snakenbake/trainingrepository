@@ -1,0 +1,6 @@
+<mvc:View controllerName="student.com.sap.training.advancedsapui5.repository.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="detailpage" title="Title">
+    </Page>
+</mvc:View>
